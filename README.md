@@ -1,6 +1,7 @@
 # qtzl 
 
-[![build status](https://secure.travis-ci.org/jfhbrook/node-ecstatic.png)](http://travis-ci.org/jfhbrook/node-ecstatic) [![codecov.io](https://codecov.io/github/jfhbrook/node-ecstatic/coverage.svg?branch=master)](https://codecov.io/github/jfhbrook/node-ecstatic?branch=master)
+[![pipeline status](https://gitlab.com/thornjad/qtzl/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/thornjad/qtzl/commits/master)
+[![Known Vulnerabilities](https://snyk.io/test/gitlab/thornjad/qtzl/badge.svg?style=flat-square)](https://snyk.io/test/gitlab/thornjad/qtzl) 
 
 A simple static file server middleware. Use it with a raw http server,
 express/connect or on the CLI!
