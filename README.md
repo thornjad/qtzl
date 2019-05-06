@@ -13,7 +13,15 @@ providing all versions on npm. This is a response to the unpublishing fiasco of
 May 2019.
 
 As of right now, while the name is changed, the internals of qtzl is 100%
-ecstatic, and so there is no API change.
+ecstatic, and so there is no API change except the `require` statement.
+
+To use as a drop-in replacement for ecstatic, simply:
+
+```shell
+npm r ecstatic && npm i qtzl
+```
+
+Then, replace `require('ecstatic')` with `require('qtzl')`.
 
 # Examples:
 
