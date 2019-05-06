@@ -2,7 +2,7 @@
   "author": "Jade Michael Thornton",
   "name": "qtzl",
   "description": "A simple static file server middleware",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "homepage": "https://gitlab.com/thornjad/qtzl",
   "repository": {
     "type": "git",
