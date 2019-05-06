@@ -2,7 +2,7 @@
   "author": "Jade Michael Thornton",
   "name": "qtzl",
   "description": "A simple static file server middleware that works with both Express and Flatiron",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "homepage": "https://gitlab.com/thornjad/qtzl",
   "repository": {
     "type": "git",
