@@ -1,12 +1,12 @@
 {
-  "author": "Joshua Holbrook <josh@nodejitsu.com> (http://jesusabdullah.net)",
-  "name": "ecstatic",
+  "author": "Jade Michael Thornton",
+  "name": "qtzl",
   "description": "A simple static file server middleware that works with both Express and Flatiron",
   "version": "2.2.2",
-  "homepage": "https://github.com/jfhbrook/node-ecstatic",
+  "homepage": "https://gitlab.com/thornjad/qtzl",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jfhbrook/node-ecstatic.git"
+    "url": "git@gitlab.com:thornjad/qtzl.git"
   },
   "main": "./lib/ecstatic.js",
   "scripts": {
