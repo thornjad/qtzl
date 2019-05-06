@@ -1,0 +1,21 @@
+.built_and_test: &build_and_test
+    before_script:
+        - npm install
+    script:
+        - npm test
+
+build:8:
+    image: node:8
+    <<: *build_and_test
+
+build:10:
+    image: node:10
+    <<: *build_and_test
+
+build:11:
+    image: node:11
+    <<: *build_and_test
+
+build:12:
+    image: node:12
+    <<: *build_and_test

@@ -30,3 +30,12 @@ test
 
 
 .nyc_output
+
+
+.eslint*
+.git*
+.npmignore
+CHANGELOG.*
+CONTRIBUTING.*
+example/
+package-lock.json*

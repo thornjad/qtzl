@@ -1,9 +1,19 @@
-# Ecstatic [![build status](https://secure.travis-ci.org/jfhbrook/node-ecstatic.png)](http://travis-ci.org/jfhbrook/node-ecstatic) [![codecov.io](https://codecov.io/github/jfhbrook/node-ecstatic/coverage.svg?branch=master)](https://codecov.io/github/jfhbrook/node-ecstatic?branch=master)
+# qtzl 
 
-![](http://imgur.com/vhub5.png)
+[![pipeline status](https://gitlab.com/thornjad/qtzl/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/thornjad/qtzl/commits/master)
+[![Known Vulnerabilities](https://snyk.io/test/npm/qtzl/badge.svg?style=flat-square)](https://snyk.io/test/npm/qtzl) 
+
+[![NPM](https://nodei.co/npm/qtzl.png?compact=true)](https://npmjs.org/package/qtzl)
 
 A simple static file server middleware. Use it with a raw http server,
 express/connect or on the CLI!
+
+This project is a fork of [ecstatic](https://github.com/jfhbrook/node-ecstatic),
+providing all versions on npm. This is a response to the unpublishing fiasco of
+May 2019.
+
+As of right now, while the name is changed, the internals of qtzl is 100%
+ecstatic, and so there is no API change.
 
 # Examples:
 
