@@ -1,7 +1,7 @@
 # qtzl 
 
 [![pipeline status](https://gitlab.com/thornjad/qtzl/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/thornjad/qtzl/commits/master)
-[![Known Vulnerabilities](https://snyk.io/test/npm/qtzl/badge.svg?style=flat-square)](https://snyk.io/test/npm/qtzl) 
+[![Known Vulnerabilities](https://snyk.io/test/npm/qtzl/badge.svg?style=flat-square)](https://snyk.io/test/npm/qtzl)
 
 [![NPM](https://nodei.co/npm/qtzl.png?compact=true)](https://npmjs.org/package/qtzl)
 
